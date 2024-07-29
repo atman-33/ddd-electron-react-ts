@@ -11,3 +11,10 @@
 ```sh
 npm init electron-app@latest ddd-electron-react-ts -- --template=webpack-typescript
 ```
+
+### Reactをインストール
+
+```sh
+npm i react react-dom
+npm i --dev @types/react @types/react-dom
+```
