@@ -1,6 +1,6 @@
 {
-  "name": "ddd-electron-react-ts",
-  "productName": "ddd-electron-react-ts",
+  "name": "electron-react-ts",
+  "productName": "electron-react-ts",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",

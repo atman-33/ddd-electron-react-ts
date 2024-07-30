@@ -9,7 +9,7 @@
 ### Electronプロジェクトを作成
 
 ```sh
-npm init electron-app@latest ddd-electron-react-ts -- --template=webpack-typescript
+npm init electron-app@latest electron-react-ts -- --template=webpack-typescript
 ```
 
 ### Reactをインストール
